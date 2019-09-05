@@ -2,10 +2,10 @@
 object Test {
     @JvmStatic
     fun main(args: Array<String>) {
-        val plainTExt = "ааоооякооэнибблритаортаатпрк"
+        val plainText = "ШCСОТТDИAЕФEFРКB"
         val key = "КРИПТОГРАФИЯ"
 
-        print(RotatingSquare.encode(plainTExt))
+        print(RotatingSquare.decode(plainText))
 
     }
 }
