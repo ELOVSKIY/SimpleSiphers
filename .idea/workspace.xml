@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea730db1-8354-49a2-a8f1-07b4b7c2f62e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/META-INF/1 лаба.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/META-INF/1 лаба.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/MainFrame.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/StarterKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/StarterKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/Subtext.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/TableMethod$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/TableMethod$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/TestsyntKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainFrame.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Starter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Starter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subtext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableMethod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableMethod.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VigenereSipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VigenereSipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testsynt.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RotatingSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-867">
+            <state relative-caret-position="-796">
               <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="771">
-              <caret line="174" column="53" selection-start-line="174" selection-start-column="53" selection-end-line="174" selection-end-column="53" />
+            <state relative-caret-position="91">
+              <caret line="136" column="93" selection-start-line="136" selection-start-column="93" selection-end-line="136" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#cutoffString#0;class#MainFrame#0" />
@@ -93,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/сверка.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -279,12 +268,20 @@
       <workItem from="1567694023525" duration="4441000" />
       <workItem from="1567712844671" duration="9273000" />
       <workItem from="1567746838975" duration="5370000" />
-      <workItem from="1568200933224" duration="766000" />
+      <workItem from="1568200933224" duration="1029000" />
     </task>
+    <task id="LOCAL-00001" summary="DlgMessage">
+      <created>1568201966254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568201966254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42437000" />
+    <option name="totallyTimeSpent" value="42700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -326,17 +323,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFrame.java</url>
-          <line>150</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DlgMessage" />
+    <option name="LAST_COMMIT_MESSAGE" value="DlgMessage" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Desipher.kt" />
@@ -402,7 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotatingSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867">
+        <state relative-caret-position="-796">
           <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -412,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="174" column="53" selection-start-line="174" selection-start-column="53" selection-end-line="174" selection-end-column="53" />
+        <state relative-caret-position="91">
+          <caret line="136" column="93" selection-start-line="136" selection-start-column="93" selection-end-line="136" selection-end-column="93" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#cutoffString#0;class#MainFrame#0" />
@@ -424,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/сверка.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
