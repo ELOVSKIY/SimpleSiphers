@@ -1,7 +1,8 @@
 import java.lang.StringBuilder
 import java.util.ArrayList
 
-class TableMethod {
+class TableMethod   {
+
     companion object {
 
         fun encode(plainText: String, key: String): String {
