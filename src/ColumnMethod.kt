@@ -1,7 +1,7 @@
 import java.lang.StringBuilder
 import java.util.ArrayList
 
-class TableMethod   {
+class ColumnMethod   {
 
     companion object {
 

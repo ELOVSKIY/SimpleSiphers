@@ -3,12 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ea730db1-8354-49a2-a8f1-07b4b7c2f62e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/META-INF/1 лаба.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/META-INF/1 лаба.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/MainFrame$ButtonEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/MainFrame$ButtonEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/MainFrame$SelectFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/MainFrame$SelectFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/MainFrame.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1 лаба/StarterKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/StarterKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/TableMethod$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 лаба/TableMethod$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/TableMethod$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1 лаба/TableMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Starter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Starter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableMethod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColumnMethod.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VigenereSipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VigenereSipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/сверка.txt" beforeDir="false" afterPath="$PROJECT_DIR$/сверка.txt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,77 +23,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/1_$StarterKt.ic" NAME="StarterKt Coverage Results" MODIFIED="1567766197956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VigenereSipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TableMethod.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RotatingSquare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-796">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="136" column="93" selection-start-line="136" selection-start-column="93" selection-end-line="136" selection-end-column="93" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#cutoffString#0;class#MainFrame#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/сверка.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,77 +38,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Desipher.kt" />
-        <option value="$PROJECT_DIR$/src/Cipher.java" />
-        <option value="$PROJECT_DIR$/src/Cipher.kt" />
-        <option value="$PROJECT_DIR$/src/TestKorlin.java" />
-        <option value="$PROJECT_DIR$/src/TestKorlin.kt" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Methodtest.java" />
-        <option value="$PROJECT_DIR$/src/Methodtest.kt" />
-        <option value="$PROJECT_DIR$/src/testsynt.kt" />
-        <option value="$PROJECT_DIR$/src/RotatingSquare.kt" />
-        <option value="$PROJECT_DIR$/src/subTest.java" />
-        <option value="$PROJECT_DIR$/src/Subtext.java" />
-        <option value="$PROJECT_DIR$/src/RotatingSquare.java" />
-        <option value="$PROJECT_DIR$/src/CharTest.java" />
-        <option value="$PROJECT_DIR$/src/VigenereSipher.java" />
-        <option value="$PROJECT_DIR$/src/Test.kt" />
-        <option value="$PROJECT_DIR$/src/MainFrame.kt" />
-        <option value="$PROJECT_DIR$/src/Encoderable.java" />
-        <option value="$PROJECT_DIR$/src/TableMethod.kt" />
-        <option value="$PROJECT_DIR$/src/Starter.kt" />
-        <option value="$PROJECT_DIR$/src/MainFrame.java" />
-        <option value="$PROJECT_DIR$/сверка.txt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
-  </component>
+  <component name="ProjectId" id="1R3SeTq2ikd5Evb4FtaYEjHzH0p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Course" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="1 лаба" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1 лаба" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1 лаба" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1 лаба" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567723089539" />
-    <property name="last_opened_file_path" value="D:/Проекты/ConsoleChat" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568285979465" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3 семестр\ТИ\1 лаба" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,7 +150,21 @@
       <workItem from="1567694023525" duration="4441000" />
       <workItem from="1567712844671" duration="9273000" />
       <workItem from="1567746838975" duration="5370000" />
-      <workItem from="1568200933224" duration="1029000" />
+      <workItem from="1568200933224" duration="2528000" />
+      <workItem from="1568219439382" duration="408000" />
+      <workItem from="1568229277021" duration="76000" />
+      <workItem from="1568231157845" duration="23000" />
+      <workItem from="1568280138421" duration="647000" />
+      <workItem from="1568281407573" duration="71000" />
+      <workItem from="1568284121000" duration="2660000" />
+      <workItem from="1568296054773" duration="75000" />
+      <workItem from="1568300594422" duration="701000" />
+      <workItem from="1568315513800" duration="13000" />
+      <workItem from="1568469891488" duration="2342000" />
+      <workItem from="1568607938734" duration="1710000" />
+      <workItem from="1568916159863" duration="26000" />
+      <workItem from="1569065990512" duration="12000" />
+      <workItem from="1569070170496" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="DlgMessage">
       <created>1568201966254</created>
@@ -280,143 +176,25 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42700000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17248322" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4546742" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32577905" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DlgMessage" />
     <option name="LAST_COMMIT_MESSAGE" value="DlgMessage" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Desipher.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Cipher.java" />
-    <entry file="file://$PROJECT_DIR$/src/Cipher.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Array.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestKorlin.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Char.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Methodtest.kt" />
-    <entry file="file://$PROJECT_DIR$/src/RotatingSquare.kt" />
-    <entry file="file://$PROJECT_DIR$/src/subTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/CharTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/testsynt.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Subtext.java" />
-    <entry file="file://$PROJECT_DIR$/src/MainFrame.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Test.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Encoderable.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/nio/charset/StandardCharsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VigenereSipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableMethod.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Starter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotatingSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-796">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="136" column="93" selection-start-line="136" selection-start-column="93" selection-end-line="136" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#cutoffString#0;class#MainFrame#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/сверка.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

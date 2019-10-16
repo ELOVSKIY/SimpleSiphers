@@ -2,7 +2,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import javax.swing.*;
@@ -16,7 +15,7 @@ class MainFrame extends JFrame {
     private JLabel lblCurrentFile = new JLabel("");
     private JTextField input = new JTextField("", 40);
     private JLabel label = new JLabel("Key:");
-    private JRadioButton radioTableMethod = new JRadioButton("Table method");
+    private JRadioButton radioTableMethod = new JRadioButton("Column method");
     private JRadioButton radioRotatingSquare = new JRadioButton("Rotating square");
     private JRadioButton radioVigenere = new JRadioButton("Vigenere");
 
@@ -156,13 +155,13 @@ class MainFrame extends JFrame {
                             messageBuild.append("Encode completed\n");
                             messageBuild.append("Key is " + cutoffString(key) + "\n");
                             messageBuild.append("Plaintext is " + cutoffString(text) + "\n");
-                            text = TableMethod.Companion.encode(text, key);
+                            text = ColumnMethod.Companion.encode(text, key);
                             messageBuild.append("Cipher text is " + cutoffString(text) + "\n");
                         } else {
                             messageBuild.append("Decode completed\n");
                             messageBuild.append("Key is " + cutoffString(key) + "\n");
                             messageBuild.append("Cipher text is " + cutoffString(text) + "\n");
-                            text = TableMethod.Companion.decode(text, key);
+                            text = ColumnMethod.Companion.decode(text, key);
                             messageBuild.append("Plaintext is " + cutoffString(text) + "\n");
                         }
                     }
@@ -178,7 +177,6 @@ class MainFrame extends JFrame {
                     } else {
                         messageBuild.append("Decode completed\n");
                         messageBuild.append("Cipher text is " + cutoffString(text) + "\n");
-                        text = TableMethod.Companion.decode(text, key);
                         text = RotatingSquare.decode(text);
                         messageBuild.append("Plaintext is " + cutoffString(text) + "\n");
                     }

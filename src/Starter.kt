@@ -1,6 +1,4 @@
 
 fun main(){
-    val app = MainFrame()
-
-
+    MainFrame()
 }

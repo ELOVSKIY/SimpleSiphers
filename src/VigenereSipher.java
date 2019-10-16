@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class VigenereSipher {
-    private static String alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"; // TODO поменять алфавит
+    private static String alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
 
     public static String encode(String plainText, String key) {
         key = key + plainText;
